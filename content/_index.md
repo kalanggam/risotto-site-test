@@ -1,2 +1,2 @@
 # Test
-{{ .Site.BaseURL }}
+Hello
