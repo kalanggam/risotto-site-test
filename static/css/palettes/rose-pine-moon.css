@@ -18,7 +18,3 @@
   --base0E: #c4a7e7;
   --base0F: #b9b9bc;
 }
-
-:root {
-  --logo: var(--base0E) !important;
-}
