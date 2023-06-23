@@ -14,7 +14,7 @@ sectionPagesMenu = "main"
 noindex = false
 
 [params.theme]
-palette = "base16-rose-pine-moon"
+palette = "rose-pine-moon"
 
 # Sidebar: about/bio
 [params.about]
