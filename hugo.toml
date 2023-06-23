@@ -14,7 +14,7 @@ sectionPagesMenu = "main"
 noindex = false
 
 [params.theme]
-palette = "base16-dark"
+palette = "atelier-forest"
 
 # Sidebar: about/bio
 [params.about]
